@@ -1,0 +1,9 @@
+{
+  "name": "E-Modul Interaktif Seni Tari",
+  "short_name": "E-Modul Seni Tari",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f0e9",
+  "theme_color": "#6b3f2a",
+  "lang": "id"
+}
